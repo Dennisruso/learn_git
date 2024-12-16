@@ -1,1 +1,1 @@
-# learn_git
+# checkpoint for GOMYCODE GITHUB/VCS
